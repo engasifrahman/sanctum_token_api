@@ -1,5 +1,5 @@
 <?php
-//store status code, errors, message, data temporarily & send to api request.
+//store success, status code, errors, message, data temporarily & send to api request.
 return [
     'success'=> true,
     'status_code'=> 200,
